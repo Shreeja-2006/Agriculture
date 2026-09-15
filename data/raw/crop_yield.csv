@@ -1,0 +1,421 @@
+State,District,Crop,Year,Area_Hectares,Production_Tonnes,Yield_Tonnes_Per_Hectare
+Andhra Pradesh,Guntur,Rice,2020,28654,121831.81,4.252
+Andhra Pradesh,Guntur,Rice,2021,26575,109596.96,4.124
+Andhra Pradesh,Guntur,Rice,2022,21850,86406.83,3.955
+Andhra Pradesh,Guntur,Rice,2023,16363,65822.87,4.023
+Andhra Pradesh,Guntur,Rice,2024,5769,24588.24,4.262
+Andhra Pradesh,Guntur,Rice,2025,7433,29870.92,4.019
+Andhra Pradesh,Guntur,Maize,2020,25939,95874.77,3.696
+Andhra Pradesh,Guntur,Maize,2021,23942,85101.16,3.554
+Andhra Pradesh,Guntur,Maize,2022,5189,18883.27,3.639
+Andhra Pradesh,Guntur,Maize,2023,6899,29368.26,4.257
+Andhra Pradesh,Guntur,Maize,2024,16394,66666.15,4.066
+Andhra Pradesh,Guntur,Maize,2025,19502,74031.84,3.796
+Andhra Pradesh,Guntur,Cotton,2020,28897,57269.66,1.982
+Andhra Pradesh,Guntur,Cotton,2021,26870,70615.72,2.628
+Andhra Pradesh,Guntur,Cotton,2022,22159,42322.48,1.91
+Andhra Pradesh,Guntur,Cotton,2023,24457,44482.62,1.819
+Andhra Pradesh,Guntur,Cotton,2024,25227,59309.93,2.351
+Andhra Pradesh,Guntur,Cotton,2025,16534,33209.09,2.009
+Andhra Pradesh,Guntur,Groundnut,2020,28247,80428.55,2.847
+Andhra Pradesh,Guntur,Groundnut,2021,26271,52313.9,1.991
+Andhra Pradesh,Guntur,Groundnut,2022,13571,27204.54,2.005
+Andhra Pradesh,Guntur,Groundnut,2023,21448,49868.31,2.325
+Andhra Pradesh,Guntur,Groundnut,2024,7027,15897.9,2.262
+Andhra Pradesh,Guntur,Groundnut,2025,17666,39132.44,2.215
+Andhra Pradesh,Guntur,Chilli,2020,11184,18414.64,1.647
+Andhra Pradesh,Guntur,Chilli,2021,7454,16980.8,2.278
+Andhra Pradesh,Guntur,Chilli,2022,24115,48013.25,1.991
+Andhra Pradesh,Guntur,Chilli,2023,10056,18357.01,1.825
+Andhra Pradesh,Guntur,Chilli,2024,25224,47050.96,1.865
+Andhra Pradesh,Guntur,Chilli,2025,17685,36113.19,2.042
+Andhra Pradesh,Krishna,Rice,2020,26518,104415.58,3.938
+Andhra Pradesh,Krishna,Rice,2021,29242,120986.87,4.137
+Andhra Pradesh,Krishna,Rice,2022,13755,63223.09,4.596
+Andhra Pradesh,Krishna,Rice,2023,19820,74353.11,3.751
+Andhra Pradesh,Krishna,Rice,2024,24626,114095.76,4.633
+Andhra Pradesh,Krishna,Rice,2025,27299,120397.98,4.41
+Andhra Pradesh,Krishna,Maize,2020,18931,76404.55,4.036
+Andhra Pradesh,Krishna,Maize,2021,20707,79461.67,3.837
+Andhra Pradesh,Krishna,Maize,2022,6306,24627.04,3.905
+Andhra Pradesh,Krishna,Maize,2023,27248,96771.18,3.551
+Andhra Pradesh,Krishna,Maize,2024,10530,36820.11,3.497
+Andhra Pradesh,Krishna,Maize,2025,18545,70877.06,3.822
+Andhra Pradesh,Krishna,Cotton,2020,22879,53055.53,2.319
+Andhra Pradesh,Krishna,Cotton,2021,18808,33401.79,1.776
+Andhra Pradesh,Krishna,Cotton,2022,16649,35099.22,2.108
+Andhra Pradesh,Krishna,Cotton,2023,22082,60156.73,2.724
+Andhra Pradesh,Krishna,Cotton,2024,18877,38290.91,2.028
+Andhra Pradesh,Krishna,Cotton,2025,27912,53428.21,1.914
+Andhra Pradesh,Krishna,Groundnut,2020,23091,50572.22,2.19
+Andhra Pradesh,Krishna,Groundnut,2021,9931,21825.32,2.198
+Andhra Pradesh,Krishna,Groundnut,2022,17688,46585.74,2.634
+Andhra Pradesh,Krishna,Groundnut,2023,24315,59520.15,2.448
+Andhra Pradesh,Krishna,Groundnut,2024,16774,35556.69,2.12
+Andhra Pradesh,Krishna,Groundnut,2025,20708,52931.14,2.556
+Andhra Pradesh,Krishna,Chilli,2020,19243,32903.52,1.71
+Andhra Pradesh,Krishna,Chilli,2021,13338,21763.28,1.632
+Andhra Pradesh,Krishna,Chilli,2022,13680,28163.89,2.059
+Andhra Pradesh,Krishna,Chilli,2023,7385,15501.79,2.099
+Andhra Pradesh,Krishna,Chilli,2024,13120,24784.81,1.889
+Andhra Pradesh,Krishna,Chilli,2025,19075,30334.41,1.59
+Andhra Pradesh,Kurnool,Rice,2020,10423,45175.31,4.334
+Andhra Pradesh,Kurnool,Rice,2021,12158,44944.63,3.697
+Andhra Pradesh,Kurnool,Rice,2022,20151,85473.7,4.242
+Andhra Pradesh,Kurnool,Rice,2023,27581,126617.13,4.591
+Andhra Pradesh,Kurnool,Rice,2024,17874,85200.14,4.767
+Andhra Pradesh,Kurnool,Rice,2025,7557,28630.16,3.789
+Andhra Pradesh,Kurnool,Maize,2020,16969,72596.52,4.278
+Andhra Pradesh,Kurnool,Maize,2021,18992,68513.03,3.607
+Andhra Pradesh,Kurnool,Maize,2022,27399,114007.67,4.161
+Andhra Pradesh,Kurnool,Maize,2023,9735,36165.48,3.715
+Andhra Pradesh,Kurnool,Maize,2024,13050,49531.24,3.795
+Andhra Pradesh,Kurnool,Maize,2025,23077,89411.69,3.874
+Andhra Pradesh,Kurnool,Cotton,2020,15677,36030.68,2.298
+Andhra Pradesh,Kurnool,Cotton,2021,20636,51719.19,2.506
+Andhra Pradesh,Kurnool,Cotton,2022,14151,30759.5,2.174
+Andhra Pradesh,Kurnool,Cotton,2023,14007,29004.2,2.071
+Andhra Pradesh,Kurnool,Cotton,2024,23589,53492.93,2.268
+Andhra Pradesh,Kurnool,Cotton,2025,17468,37726.57,2.16
+Andhra Pradesh,Kurnool,Groundnut,2020,5190,10991.61,2.118
+Andhra Pradesh,Kurnool,Groundnut,2021,22568,48343.19,2.142
+Andhra Pradesh,Kurnool,Groundnut,2022,6816,16833.02,2.47
+Andhra Pradesh,Kurnool,Groundnut,2023,10442,24170.01,2.315
+Andhra Pradesh,Kurnool,Groundnut,2024,12455,32217.6,2.587
+Andhra Pradesh,Kurnool,Groundnut,2025,29190,74752.07,2.561
+Andhra Pradesh,Kurnool,Chilli,2020,5784,13347.73,2.308
+Andhra Pradesh,Kurnool,Chilli,2021,10801,21607.96,2.001
+Andhra Pradesh,Kurnool,Chilli,2022,15647,31627.73,2.021
+Andhra Pradesh,Kurnool,Chilli,2023,29376,51645.7,1.758
+Andhra Pradesh,Kurnool,Chilli,2024,17039,35720.7,2.096
+Andhra Pradesh,Kurnool,Chilli,2025,27386,34600.81,1.263
+Andhra Pradesh,Prakasam,Rice,2020,18121,77840.3,4.296
+Andhra Pradesh,Prakasam,Rice,2021,25530,103581.23,4.057
+Andhra Pradesh,Prakasam,Rice,2022,22532,95900.78,4.256
+Andhra Pradesh,Prakasam,Rice,2023,14907,60040.79,4.028
+Andhra Pradesh,Prakasam,Rice,2024,19599,83682.97,4.27
+Andhra Pradesh,Prakasam,Rice,2025,21388,92645.26,4.332
+Andhra Pradesh,Prakasam,Maize,2020,28411,109328.9,3.848
+Andhra Pradesh,Prakasam,Maize,2021,12079,43038.61,3.563
+Andhra Pradesh,Prakasam,Maize,2022,26136,81524.51,3.119
+Andhra Pradesh,Prakasam,Maize,2023,10177,41799.69,4.107
+Andhra Pradesh,Prakasam,Maize,2024,6081,24273.9,3.992
+Andhra Pradesh,Prakasam,Maize,2025,18407,76359.76,4.148
+Andhra Pradesh,Prakasam,Cotton,2020,17775,40353.05,2.27
+Andhra Pradesh,Prakasam,Cotton,2021,18500,47464.7,2.566
+Andhra Pradesh,Prakasam,Cotton,2022,20125,40079.79,1.992
+Andhra Pradesh,Prakasam,Cotton,2023,12253,28865.53,2.356
+Andhra Pradesh,Prakasam,Cotton,2024,16151,30107.57,1.864
+Andhra Pradesh,Prakasam,Cotton,2025,28805,43082.4,1.496
+Andhra Pradesh,Prakasam,Groundnut,2020,28049,72625.53,2.589
+Andhra Pradesh,Prakasam,Groundnut,2021,14207,33785.87,2.378
+Andhra Pradesh,Prakasam,Groundnut,2022,24223,64911.04,2.68
+Andhra Pradesh,Prakasam,Groundnut,2023,5851,14361.29,2.455
+Andhra Pradesh,Prakasam,Groundnut,2024,7427,17557.7,2.364
+Andhra Pradesh,Prakasam,Groundnut,2025,27116,72424.26,2.671
+Andhra Pradesh,Prakasam,Chilli,2020,18479,32962.82,1.784
+Andhra Pradesh,Prakasam,Chilli,2021,28132,54291.65,1.93
+Andhra Pradesh,Prakasam,Chilli,2022,8267,16414.98,1.986
+Andhra Pradesh,Prakasam,Chilli,2023,16338,32610.82,1.996
+Andhra Pradesh,Prakasam,Chilli,2024,28548,44075.13,1.544
+Andhra Pradesh,Prakasam,Chilli,2025,23888,59334.53,2.484
+Telangana,Nalgonda,Rice,2020,22506,82025.0,3.645
+Telangana,Nalgonda,Rice,2021,7143,30186.64,4.226
+Telangana,Nalgonda,Rice,2022,17043,73413.08,4.308
+Telangana,Nalgonda,Rice,2023,19552,73842.78,3.777
+Telangana,Nalgonda,Rice,2024,17144,75228.18,4.388
+Telangana,Nalgonda,Rice,2025,22749,91971.32,4.043
+Telangana,Nalgonda,Maize,2020,18923,68288.96,3.609
+Telangana,Nalgonda,Maize,2021,22101,94551.43,4.278
+Telangana,Nalgonda,Maize,2022,10486,47114.62,4.493
+Telangana,Nalgonda,Maize,2023,26972,109901.7,4.075
+Telangana,Nalgonda,Maize,2024,6062,21665.42,3.574
+Telangana,Nalgonda,Maize,2025,16174,68970.07,4.264
+Telangana,Nalgonda,Cotton,2020,29394,74231.84,2.525
+Telangana,Nalgonda,Cotton,2021,16516,38972.67,2.36
+Telangana,Nalgonda,Cotton,2022,22575,47228.42,2.092
+Telangana,Nalgonda,Cotton,2023,26925,57680.46,2.142
+Telangana,Nalgonda,Cotton,2024,12494,24314.02,1.946
+Telangana,Nalgonda,Cotton,2025,11588,24185.18,2.087
+Telangana,Nalgonda,Groundnut,2020,27361,50061.02,1.83
+Telangana,Nalgonda,Groundnut,2021,25652,59647.15,2.325
+Telangana,Nalgonda,Groundnut,2022,28003,73498.49,2.625
+Telangana,Nalgonda,Groundnut,2023,15150,43266.78,2.856
+Telangana,Nalgonda,Groundnut,2024,5504,10934.14,1.987
+Telangana,Nalgonda,Groundnut,2025,5823,13548.22,2.327
+Telangana,Nalgonda,Chilli,2020,7105,13034.27,1.835
+Telangana,Nalgonda,Chilli,2021,26732,44148.43,1.652
+Telangana,Nalgonda,Chilli,2022,16704,37085.61,2.22
+Telangana,Nalgonda,Chilli,2023,10645,21884.46,2.056
+Telangana,Nalgonda,Chilli,2024,13662,26019.25,1.904
+Telangana,Nalgonda,Chilli,2025,14337,20633.15,1.439
+Telangana,Warangal,Rice,2020,24129,93506.23,3.875
+Telangana,Warangal,Rice,2021,9964,46999.08,4.717
+Telangana,Warangal,Rice,2022,18216,74116.06,4.069
+Telangana,Warangal,Rice,2023,22308,96928.99,4.345
+Telangana,Warangal,Rice,2024,9804,43853.61,4.473
+Telangana,Warangal,Rice,2025,24255,108642.43,4.479
+Telangana,Warangal,Maize,2020,10124,37652.56,3.719
+Telangana,Warangal,Maize,2021,7193,28042.84,3.899
+Telangana,Warangal,Maize,2022,25309,104889.15,4.144
+Telangana,Warangal,Maize,2023,25384,82024.83,3.231
+Telangana,Warangal,Maize,2024,5384,23290.25,4.326
+Telangana,Warangal,Maize,2025,14860,56653.44,3.812
+Telangana,Warangal,Cotton,2020,28524,69387.35,2.433
+Telangana,Warangal,Cotton,2021,25562,42340.79,1.656
+Telangana,Warangal,Cotton,2022,10997,19213.36,1.747
+Telangana,Warangal,Cotton,2023,29323,56255.17,1.918
+Telangana,Warangal,Cotton,2024,15015,29928.84,1.993
+Telangana,Warangal,Cotton,2025,15357,34563.98,2.251
+Telangana,Warangal,Groundnut,2020,15176,47460.51,3.127
+Telangana,Warangal,Groundnut,2021,29285,81805.95,2.793
+Telangana,Warangal,Groundnut,2022,24198,68430.07,2.828
+Telangana,Warangal,Groundnut,2023,25914,68240.59,2.633
+Telangana,Warangal,Groundnut,2024,11881,25051.02,2.108
+Telangana,Warangal,Groundnut,2025,11941,27553.87,2.308
+Telangana,Warangal,Chilli,2020,15209,19548.16,1.285
+Telangana,Warangal,Chilli,2021,14550,24487.37,1.683
+Telangana,Warangal,Chilli,2022,29114,61053.26,2.097
+Telangana,Warangal,Chilli,2023,21521,42978.32,1.997
+Telangana,Warangal,Chilli,2024,24963,47136.04,1.888
+Telangana,Warangal,Chilli,2025,11269,20112.83,1.785
+Telangana,Karimnagar,Rice,2020,23290,102558.73,4.404
+Telangana,Karimnagar,Rice,2021,20183,84117.56,4.168
+Telangana,Karimnagar,Rice,2022,14911,63830.51,4.281
+Telangana,Karimnagar,Rice,2023,5666,23729.26,4.188
+Telangana,Karimnagar,Rice,2024,28161,116982.88,4.154
+Telangana,Karimnagar,Rice,2025,26969,106421.66,3.946
+Telangana,Karimnagar,Maize,2020,18716,86674.15,4.631
+Telangana,Karimnagar,Maize,2021,21907,74988.09,3.423
+Telangana,Karimnagar,Maize,2022,19124,69689.08,3.644
+Telangana,Karimnagar,Maize,2023,27574,103555.08,3.756
+Telangana,Karimnagar,Maize,2024,27877,97068.75,3.482
+Telangana,Karimnagar,Maize,2025,9432,35502.98,3.764
+Telangana,Karimnagar,Cotton,2020,19178,36088.69,1.882
+Telangana,Karimnagar,Cotton,2021,22022,46449.07,2.109
+Telangana,Karimnagar,Cotton,2022,13150,31723.35,2.412
+Telangana,Karimnagar,Cotton,2023,11809,26670.99,2.259
+Telangana,Karimnagar,Cotton,2024,24181,55019.43,2.275
+Telangana,Karimnagar,Cotton,2025,6906,12157.28,1.76
+Telangana,Karimnagar,Groundnut,2020,17772,37563.43,2.114
+Telangana,Karimnagar,Groundnut,2021,22680,46246.62,2.039
+Telangana,Karimnagar,Groundnut,2022,20147,40361.05,2.003
+Telangana,Karimnagar,Groundnut,2023,11168,30278.18,2.711
+Telangana,Karimnagar,Groundnut,2024,11371,33954.25,2.986
+Telangana,Karimnagar,Groundnut,2025,12943,40170.6,3.104
+Telangana,Karimnagar,Chilli,2020,20913,27850.12,1.332
+Telangana,Karimnagar,Chilli,2021,26785,46893.09,1.751
+Telangana,Karimnagar,Chilli,2022,15554,28552.76,1.836
+Telangana,Karimnagar,Chilli,2023,22844,36256.37,1.587
+Telangana,Karimnagar,Chilli,2024,28370,58196.04,2.051
+Telangana,Karimnagar,Chilli,2025,29579,60125.12,2.033
+Telangana,Khammam,Rice,2020,10560,49482.21,4.686
+Telangana,Khammam,Rice,2021,20385,84397.73,4.14
+Telangana,Khammam,Rice,2022,11469,46862.17,4.086
+Telangana,Khammam,Rice,2023,11283,45248.01,4.01
+Telangana,Khammam,Rice,2024,17607,70126.72,3.983
+Telangana,Khammam,Rice,2025,11988,49397.66,4.121
+Telangana,Khammam,Maize,2020,17977,64773.85,3.603
+Telangana,Khammam,Maize,2021,14865,58059.53,3.906
+Telangana,Khammam,Maize,2022,15568,65923.7,4.235
+Telangana,Khammam,Maize,2023,19231,78779.91,4.097
+Telangana,Khammam,Maize,2024,14310,55037.84,3.846
+Telangana,Khammam,Maize,2025,24019,92382.65,3.846
+Telangana,Khammam,Cotton,2020,8391,19526.65,2.327
+Telangana,Khammam,Cotton,2021,13007,30547.67,2.349
+Telangana,Khammam,Cotton,2022,28325,60976.28,2.153
+Telangana,Khammam,Cotton,2023,24282,64576.0,2.659
+Telangana,Khammam,Cotton,2024,25611,45792.86,1.788
+Telangana,Khammam,Cotton,2025,15535,34931.06,2.249
+Telangana,Khammam,Groundnut,2020,11943,24485.67,2.05
+Telangana,Khammam,Groundnut,2021,26526,60607.84,2.285
+Telangana,Khammam,Groundnut,2022,7192,18499.92,2.572
+Telangana,Khammam,Groundnut,2023,23381,56994.74,2.438
+Telangana,Khammam,Groundnut,2024,22586,49179.52,2.177
+Telangana,Khammam,Groundnut,2025,20374,54231.81,2.662
+Telangana,Khammam,Chilli,2020,14446,31324.93,2.168
+Telangana,Khammam,Chilli,2021,22334,36725.41,1.644
+Telangana,Khammam,Chilli,2022,9612,18826.36,1.959
+Telangana,Khammam,Chilli,2023,27412,41598.44,1.518
+Telangana,Khammam,Chilli,2024,8228,19759.07,2.401
+Telangana,Khammam,Chilli,2025,23755,51746.19,2.178
+Karnataka,Mysuru,Rice,2020,21478,104943.46,4.886
+Karnataka,Mysuru,Rice,2021,5793,21900.47,3.781
+Karnataka,Mysuru,Rice,2022,17298,73792.05,4.266
+Karnataka,Mysuru,Rice,2023,16397,57292.79,3.494
+Karnataka,Mysuru,Rice,2024,15541,67756.16,4.36
+Karnataka,Mysuru,Rice,2025,12783,58478.53,4.575
+Karnataka,Mysuru,Maize,2020,29174,124901.06,4.281
+Karnataka,Mysuru,Maize,2021,12147,50981.83,4.197
+Karnataka,Mysuru,Maize,2022,25260,96169.89,3.807
+Karnataka,Mysuru,Maize,2023,13795,50571.79,3.666
+Karnataka,Mysuru,Maize,2024,25530,98310.1,3.851
+Karnataka,Mysuru,Maize,2025,8797,31566.4,3.588
+Karnataka,Mysuru,Cotton,2020,19755,47043.56,2.381
+Karnataka,Mysuru,Cotton,2021,26415,58963.4,2.232
+Karnataka,Mysuru,Cotton,2022,14524,30561.97,2.104
+Karnataka,Mysuru,Cotton,2023,9212,18731.61,2.033
+Karnataka,Mysuru,Cotton,2024,21920,25997.91,1.186
+Karnataka,Mysuru,Cotton,2025,27874,50854.14,1.824
+Karnataka,Mysuru,Groundnut,2020,9971,24444.07,2.452
+Karnataka,Mysuru,Groundnut,2021,17312,34777.42,2.009
+Karnataka,Mysuru,Groundnut,2022,27359,64864.95,2.371
+Karnataka,Mysuru,Groundnut,2023,9757,20900.25,2.142
+Karnataka,Mysuru,Groundnut,2024,22350,55923.66,2.502
+Karnataka,Mysuru,Groundnut,2025,9243,20768.93,2.247
+Karnataka,Mysuru,Chilli,2020,14916,22245.67,1.491
+Karnataka,Mysuru,Chilli,2021,6759,12138.62,1.796
+Karnataka,Mysuru,Chilli,2022,29442,58967.01,2.003
+Karnataka,Mysuru,Chilli,2023,7717,14531.22,1.883
+Karnataka,Mysuru,Chilli,2024,23449,39756.46,1.695
+Karnataka,Mysuru,Chilli,2025,11645,13960.81,1.199
+Karnataka,Belagavi,Rice,2020,10797,45451.69,4.21
+Karnataka,Belagavi,Rice,2021,24719,94142.17,3.808
+Karnataka,Belagavi,Rice,2022,15093,66852.28,4.429
+Karnataka,Belagavi,Rice,2023,21438,87355.08,4.075
+Karnataka,Belagavi,Rice,2024,20708,79260.44,3.828
+Karnataka,Belagavi,Rice,2025,27338,109865.17,4.019
+Karnataka,Belagavi,Maize,2020,21380,81530.4,3.813
+Karnataka,Belagavi,Maize,2021,8300,29936.04,3.607
+Karnataka,Belagavi,Maize,2022,8054,32832.33,4.077
+Karnataka,Belagavi,Maize,2023,26591,106645.87,4.011
+Karnataka,Belagavi,Maize,2024,23922,83655.33,3.497
+Karnataka,Belagavi,Maize,2025,5822,23331.1,4.007
+Karnataka,Belagavi,Cotton,2020,13705,31779.31,2.319
+Karnataka,Belagavi,Cotton,2021,24978,41195.63,1.649
+Karnataka,Belagavi,Cotton,2022,9566,20073.48,2.098
+Karnataka,Belagavi,Cotton,2023,18192,31259.02,1.718
+Karnataka,Belagavi,Cotton,2024,27003,50746.82,1.879
+Karnataka,Belagavi,Cotton,2025,7106,15303.25,2.154
+Karnataka,Belagavi,Groundnut,2020,24152,48859.16,2.023
+Karnataka,Belagavi,Groundnut,2021,17808,51105.36,2.87
+Karnataka,Belagavi,Groundnut,2022,28752,68370.11,2.378
+Karnataka,Belagavi,Groundnut,2023,23435,66608.83,2.842
+Karnataka,Belagavi,Groundnut,2024,28365,65518.13,2.31
+Karnataka,Belagavi,Groundnut,2025,12184,21270.69,1.746
+Karnataka,Belagavi,Chilli,2020,17875,37207.11,2.082
+Karnataka,Belagavi,Chilli,2021,19060,34061.13,1.787
+Karnataka,Belagavi,Chilli,2022,16664,20369.8,1.222
+Karnataka,Belagavi,Chilli,2023,24065,31114.46,1.293
+Karnataka,Belagavi,Chilli,2024,10941,19703.84,1.801
+Karnataka,Belagavi,Chilli,2025,16555,34275.43,2.07
+Karnataka,Dharwad,Rice,2020,11819,51138.31,4.327
+Karnataka,Dharwad,Rice,2021,22717,100301.14,4.415
+Karnataka,Dharwad,Rice,2022,9853,38557.23,3.913
+Karnataka,Dharwad,Rice,2023,12715,51671.63,4.064
+Karnataka,Dharwad,Rice,2024,20850,83196.4,3.99
+Karnataka,Dharwad,Rice,2025,12617,58515.14,4.638
+Karnataka,Dharwad,Maize,2020,14130,59960.25,4.243
+Karnataka,Dharwad,Maize,2021,29354,117507.35,4.003
+Karnataka,Dharwad,Maize,2022,13363,48002.37,3.592
+Karnataka,Dharwad,Maize,2023,21314,84078.34,3.945
+Karnataka,Dharwad,Maize,2024,29366,123876.48,4.218
+Karnataka,Dharwad,Maize,2025,16344,69390.58,4.246
+Karnataka,Dharwad,Cotton,2020,10319,17283.67,1.675
+Karnataka,Dharwad,Cotton,2021,16918,35372.99,2.091
+Karnataka,Dharwad,Cotton,2022,18849,42373.49,2.248
+Karnataka,Dharwad,Cotton,2023,17045,34145.16,2.003
+Karnataka,Dharwad,Cotton,2024,16122,36513.71,2.265
+Karnataka,Dharwad,Cotton,2025,26469,50945.7,1.925
+Karnataka,Dharwad,Groundnut,2020,22850,53207.05,2.329
+Karnataka,Dharwad,Groundnut,2021,29364,67872.29,2.311
+Karnataka,Dharwad,Groundnut,2022,7983,14271.71,1.788
+Karnataka,Dharwad,Groundnut,2023,13230,26133.73,1.975
+Karnataka,Dharwad,Groundnut,2024,26852,74681.8,2.781
+Karnataka,Dharwad,Groundnut,2025,20520,54578.99,2.66
+Karnataka,Dharwad,Chilli,2020,20229,21319.78,1.054
+Karnataka,Dharwad,Chilli,2021,5545,10599.99,1.912
+Karnataka,Dharwad,Chilli,2022,8810,14605.18,1.658
+Karnataka,Dharwad,Chilli,2023,5271,11074.24,2.101
+Karnataka,Dharwad,Chilli,2024,8430,17579.93,2.085
+Karnataka,Dharwad,Chilli,2025,25144,39142.99,1.557
+Maharashtra,Nashik,Rice,2020,7033,27199.92,3.867
+Maharashtra,Nashik,Rice,2021,12832,53919.78,4.202
+Maharashtra,Nashik,Rice,2022,19286,69958.73,3.627
+Maharashtra,Nashik,Rice,2023,28895,124527.83,4.31
+Maharashtra,Nashik,Rice,2024,9805,42831.37,4.368
+Maharashtra,Nashik,Rice,2025,19561,93279.98,4.769
+Maharashtra,Nashik,Maize,2020,8564,31821.82,3.716
+Maharashtra,Nashik,Maize,2021,15745,63106.27,4.008
+Maharashtra,Nashik,Maize,2022,23180,87341.91,3.768
+Maharashtra,Nashik,Maize,2023,18832,65051.97,3.454
+Maharashtra,Nashik,Maize,2024,28696,107723.88,3.754
+Maharashtra,Nashik,Maize,2025,26260,90583.17,3.449
+Maharashtra,Nashik,Cotton,2020,9675,19577.93,2.024
+Maharashtra,Nashik,Cotton,2021,23024,39413.63,1.712
+Maharashtra,Nashik,Cotton,2022,22602,55306.92,2.447
+Maharashtra,Nashik,Cotton,2023,22338,39124.11,1.751
+Maharashtra,Nashik,Cotton,2024,9133,18139.08,1.986
+Maharashtra,Nashik,Cotton,2025,18913,41360.25,2.187
+Maharashtra,Nashik,Groundnut,2020,14903,35521.02,2.383
+Maharashtra,Nashik,Groundnut,2021,17880,45344.09,2.536
+Maharashtra,Nashik,Groundnut,2022,6591,19644.31,2.98
+Maharashtra,Nashik,Groundnut,2023,6312,15843.07,2.51
+Maharashtra,Nashik,Groundnut,2024,24623,53977.66,2.192
+Maharashtra,Nashik,Groundnut,2025,23088,47347.16,2.051
+Maharashtra,Nashik,Chilli,2020,18481,31179.55,1.687
+Maharashtra,Nashik,Chilli,2021,26179,47469.91,1.813
+Maharashtra,Nashik,Chilli,2022,27890,50035.5,1.794
+Maharashtra,Nashik,Chilli,2023,23787,50076.4,2.105
+Maharashtra,Nashik,Chilli,2024,5294,7508.05,1.418
+Maharashtra,Nashik,Chilli,2025,12009,29196.06,2.431
+Maharashtra,Pune,Rice,2020,6007,24850.82,4.137
+Maharashtra,Pune,Rice,2021,26736,113799.48,4.256
+Maharashtra,Pune,Rice,2022,5571,22852.42,4.102
+Maharashtra,Pune,Rice,2023,21661,93720.75,4.327
+Maharashtra,Pune,Rice,2024,22649,103041.42,4.549
+Maharashtra,Pune,Rice,2025,14077,56118.1,3.987
+Maharashtra,Pune,Maize,2020,21378,89693.2,4.196
+Maharashtra,Pune,Maize,2021,26730,104434.48,3.907
+Maharashtra,Pune,Maize,2022,29604,118496.99,4.003
+Maharashtra,Pune,Maize,2023,16801,58432.99,3.478
+Maharashtra,Pune,Maize,2024,19288,77320.43,4.009
+Maharashtra,Pune,Maize,2025,22482,96328.52,4.285
+Maharashtra,Pune,Cotton,2020,27042,45965.57,1.7
+Maharashtra,Pune,Cotton,2021,17857,38468.28,2.154
+Maharashtra,Pune,Cotton,2022,6980,14501.22,2.078
+Maharashtra,Pune,Cotton,2023,22175,47616.96,2.147
+Maharashtra,Pune,Cotton,2024,23639,46529.98,1.968
+Maharashtra,Pune,Cotton,2025,22368,50600.22,2.262
+Maharashtra,Pune,Groundnut,2020,13782,27665.83,2.007
+Maharashtra,Pune,Groundnut,2021,11342,26637.82,2.349
+Maharashtra,Pune,Groundnut,2022,13884,28351.87,2.042
+Maharashtra,Pune,Groundnut,2023,20069,55300.94,2.756
+Maharashtra,Pune,Groundnut,2024,10797,23791.81,2.204
+Maharashtra,Pune,Groundnut,2025,10109,21180.93,2.095
+Maharashtra,Pune,Chilli,2020,21967,27791.53,1.265
+Maharashtra,Pune,Chilli,2021,9167,18137.19,1.979
+Maharashtra,Pune,Chilli,2022,22773,49090.45,2.156
+Maharashtra,Pune,Chilli,2023,23427,38717.7,1.653
+Maharashtra,Pune,Chilli,2024,15640,24943.27,1.595
+Maharashtra,Pune,Chilli,2025,20822,44364.04,2.131
+Maharashtra,Nagpur,Rice,2020,21019,88290.33,4.201
+Maharashtra,Nagpur,Rice,2021,29416,120215.26,4.087
+Maharashtra,Nagpur,Rice,2022,17236,64276.8,3.729
+Maharashtra,Nagpur,Rice,2023,20525,94658.98,4.612
+Maharashtra,Nagpur,Rice,2024,21369,91511.89,4.282
+Maharashtra,Nagpur,Rice,2025,29892,135804.1,4.543
+Maharashtra,Nagpur,Maize,2020,26767,105756.55,3.951
+Maharashtra,Nagpur,Maize,2021,18629,81155.2,4.356
+Maharashtra,Nagpur,Maize,2022,5458,22124.39,4.054
+Maharashtra,Nagpur,Maize,2023,21405,83869.92,3.918
+Maharashtra,Nagpur,Maize,2024,26288,91095.87,3.465
+Maharashtra,Nagpur,Maize,2025,20313,71567.87,3.523
+Maharashtra,Nagpur,Cotton,2020,16894,33800.13,2.001
+Maharashtra,Nagpur,Cotton,2021,29363,71966.86,2.451
+Maharashtra,Nagpur,Cotton,2022,5661,9462.28,1.671
+Maharashtra,Nagpur,Cotton,2023,21002,39599.5,1.886
+Maharashtra,Nagpur,Cotton,2024,17732,29201.43,1.647
+Maharashtra,Nagpur,Cotton,2025,12005,26565.28,2.213
+Maharashtra,Nagpur,Groundnut,2020,7071,13531.02,1.914
+Maharashtra,Nagpur,Groundnut,2021,8453,22765.6,2.693
+Maharashtra,Nagpur,Groundnut,2022,11563,26538.35,2.295
+Maharashtra,Nagpur,Groundnut,2023,17003,34485.39,2.028
+Maharashtra,Nagpur,Groundnut,2024,22778,44072.94,1.935
+Maharashtra,Nagpur,Groundnut,2025,25098,74082.73,2.952
+Maharashtra,Nagpur,Chilli,2020,24342,42004.08,1.726
+Maharashtra,Nagpur,Chilli,2021,28279,66492.52,2.351
+Maharashtra,Nagpur,Chilli,2022,5525,11545.07,2.09
+Maharashtra,Nagpur,Chilli,2023,7365,11490.34,1.56
+Maharashtra,Nagpur,Chilli,2024,5013,7750.0,1.546
+Maharashtra,Nagpur,Chilli,2025,13321,22101.49,1.659
